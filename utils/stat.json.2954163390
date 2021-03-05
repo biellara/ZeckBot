@@ -1,0 +1,25 @@
+{
+	"sent": {
+		"chat": 1587,
+		"document": 4,
+		"gp2": 290,
+		"sticker": 686,
+		"video": 16,
+		"e2e_notification": 53,
+		"image": 274,
+		"ptt": 879
+	},
+	"receive": {
+		"chat": 29317,
+		"sticker": 1888,
+		"image": 1574,
+		"ptt": 331,
+		"video": 295,
+		"document": 1,
+		"ciphertext": 5,
+		"audio": 47,
+		"call_log": 3,
+		"location": 4,
+		"vcard": 2
+	}
+}
